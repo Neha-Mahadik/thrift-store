@@ -1,0 +1,257 @@
+
+*{    margin: 100;
+    padding: 10;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serifs;
+
+}
+header{
+    background-color:beige;
+    height:100vh;
+    background-position:center;
+}
+ul{
+    float:center;
+    list-style-type: disc;
+    margin-top: 25px;
+}
+ul li{
+    display: inline-block;
+}
+ul li a{
+    text-decoration: seagreen;
+    color: seagreen;
+    padding: 5px 20px;
+    border: px transparent lavender;
+    transition: 0.5s ease;
+}
+ul li a:hover{
+    background-color: lavenderblush;
+    color:palevioletred;
+
+}
+
+.main{
+    max-width: 1200px;
+    margin:center;
+}
+.title{
+    position: absolute;
+    top: 70%;
+    left:60%;
+    transform: translate(-70%,50%);
+
+}
+}
+.title h1{
+    color:seagreen;
+    font-size:300px;
+    font-style: italc;
+    position:absolute;
+    padding: auto;
+    text-emphasis-color:lavender;
+    font-family:sans-serif;
+}
+.quote{
+    position: absolute;
+    top: 45%;
+    left:60%;
+    transform: translate(-50%,50%);
+    padding: 20 px 10 px;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:large;
+    text-align: center;
+    text-decoration-line: underline;
+    text-shadow:black;
+    text-anchor: middle;
+
+}
+.button{
+    position: absolute;
+    top: 90%;
+    left:60%;
+    transform: translate(-90%,60%);
+}
+.btn{
+    border: 3px solid seagreen;
+    padding: 10px 30px;
+    color: palevioletred;
+    text-decoration: black;
+}
+.btn:hover
+{
+background-color: lavenderblush;
+color:seagreen;
+}
+
+.message{
+    
+    
+    padding: 20 px 10 px;
+    font-style: oblique;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-skip: line;
+    text-transform: inherit;
+    text-anchor: inherit;
+}
+.SALE{
+ 
+    height:50px;
+    background-position:left;
+}
+    
+   
+    
+    .end{
+        
+        padding: 20 px 10 px;
+        font-style:italic;
+        font-family:Verdana, Geneva, Tahoma, sans-serif;
+        font-size:medium;
+        text-align:center;
+        color: palevioletred;
+       
+    }
+    
+
+    #{
+        margin: 0;
+        padding: 0;
+
+    }
+    body {
+        background-color:wheat;
+        -webkit-background-size: cover ;
+        background-size: cover;
+        background-position:center ;
+        height:100vh;
+    }
+.wrapper{
+    width: 860px;
+    margin: 0 auto;
+    }
+    .wrapper ul{
+        list-style: none;
+        margin-top: 2%;
+        }
+.wrapper ul li.customdropdown {
+            display: inline-block;
+            border: 5px solid beige;
+            width: 170px;
+            padding: 10px;
+            vertical-align: top;
+        } 
+        .wrapper ul li.customdropdown li{
+            padding: 10px;
+
+        }
+        
+.wrapper{
+
+        background-color:lightcoral;
+        text-align:left;
+        float: center;
+        padding: 50px;
+        color:seagreen;
+        font-size: 16px;
+        position: relative;
+        font-family: poppins;
+        text-transform:uppercase;
+        font-weight: bold;
+        }
+       
+       
+    
+        
+       
+        
+.wrapper ul li:hover{
+        background:beige; 
+        }
+        
+.wrapper ul ul{
+        display: none;
+        }
+.wrapper ul li:hover > ul{
+        display: block;
+        }
+.wrapper ul ul ul{
+        margin-left: 170px;
+        top: 0;
+      
+        }
+        
+.h3
+    {
+        width: 49%;
+       display: inline-block;
+        height:10px;
+        width:10px;
+        align-items:left;
+    }
+.salelogo{
+    text-align: center;
+    margin: auto;
+background-color:red;
+}
+
+.salelogo img{
+    height: 300px;
+    width: 1000px;
+}
+
+
+.salewrapper{
+    text-align: center;
+    text-size-adjust: 100px;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:wheat;
+    color:seagreen;
+    
+}
+
+.contacts{
+    background-color:lightcoral;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.reviews{
+    background-color: palevioletred;
+    text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.scrollimage{
+    text-align: center;
+    margin: auto;
+
+}
+
+.scrollimage img{
+    height: 500px;
+    width: 1000px;
+}
+.comingsoon{
+    text-align: center;
+    background-color:wheat;
+}
+
+.foundersmessage{
+    text-align: center;
+    background-color: lavenderblush;
+    color: seagreen;
+    font-size: medium;
+    font-family: sans-serif;
+}
+
+.founders{
+    height: 600px;
+    width: 600px;
+    text-align: center;
+
+}
